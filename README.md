@@ -15,22 +15,22 @@
 - [x] hardwareAccelerated
 - [x] statusBarTranslucent
     - No distraction mode example
-- [ ] onDismiss 
+- [x] onDismiss 
     - Ask user for confirmation  after reading a text / terms & conditions
-- [ ] onOrientationChange
-- [ ] onRequestClose
+- [x] onOrientationChange
+- [x] onRequestClose
     - Prompt user that this action is necessary to proceed in application (when back button pressed with modal open)
-- [ ] onShow
+- [x] onShow
     - Find time spent in viewing the content of the modal, (make user to wait n seconds after modal loads to click on submit button)
-- [ ] presentationStyle
+- [x] presentationStyle
     - show a large image / text on large screensize 
-- [ ] hardwareAccelerated
+- [x] hardwareAccelerated
     - switch to launch modal with hardware acceleration on
-- [ ] onOrientationChange
+- [x] onOrientationChange
     - change layour of content when layout changes
 - [ ] supportedOrientations
     - show message to user when opening modal in non portrait view ?
-- [ ] transparent
+- [x] transparent
     - use modal as a quick popup, without hiding other content
 
 ## E2E Tests
